@@ -55,3 +55,5 @@ const anotherFunction = async () => {
     console.log(error);
   }
 };
+
+anotherFunction();
